@@ -17,7 +17,7 @@ function changeImage() {
         
     } else {
         
-        image.src = "images/" + images[randomIndex]
+        image.src = "jssSandbox/images/" + images[randomIndex]
         tempIndex = randomIndex
 
         }
