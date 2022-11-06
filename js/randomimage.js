@@ -17,7 +17,7 @@ function changeImage() {
         
     } else {
         
-        image.src = "/images/" + images[randomIndex]
+        image.src = "images/" + images[randomIndex]
         tempIndex = randomIndex
 
         }
